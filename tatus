@@ -1,0 +1,51 @@
+[33mcommit 0034965ec983963434d4e93829fa4892c51aff20[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mt[m[33m, [m[1;32mlist[m[33m)[m
+Author: SK <8613sk@gmail.com>
+Date:   Sun Jul 16 10:50:05 2023 +0000
+
+    Revert "all"
+    
+    This reverts commit c2c19001c0667c6aaa5d4d6ea2a8459bba218b30.
+
+[33mcommit 631cee1ec8dbe973e795b770a5e321c25b4b06d5[m
+Author: SK <8613sk@gmail.com>
+Date:   Sun Jul 16 10:49:21 2023 +0000
+
+    Revert "all"
+    
+    This reverts commit 68cb8a494cf323faf7be2d0e710695f9f5923a28.
+
+[33mcommit 22fb0162c3ca8aee0ea31ee7573aa9a3d5b34cf6[m
+Author: SK <8613sk@gmail.com>
+Date:   Sat Jul 15 22:34:21 2023 +0000
+
+    all
+
+[33mcommit a36fbcd4ff13de42b3a43bffbffa77ae31b4c2b9[m
+Author: SK <8613sk@gmail.com>
+Date:   Sat Jul 15 21:33:00 2023 +0000
+
+    all
+
+[33mcommit 68cb8a494cf323faf7be2d0e710695f9f5923a28[m[33m ([m[1;33mtag: sanaj[m[33m)[m
+Author: SK <8613sk@gmail.com>
+Date:   Sat Jul 15 21:24:53 2023 +0000
+
+    all
+
+[33mcommit c2c19001c0667c6aaa5d4d6ea2a8459bba218b30[m
+Author: SK <8613sk@gmail.com>
+Date:   Sat Jul 15 21:20:05 2023 +0000
+
+    all
+
+[33mcommit 2c29b6c60d8950817337d7e86c83447ee666891b[m
+Author: SK <8613sk@gmail.com>
+Date:   Sat Jul 15 21:16:45 2023 +0000
+
+    all
+
+[33mcommit ce2019a28a4e728b925d9012bd588a49c7b1ece0[m
+Author: SK <8613sk@gmail.com>
+Date:   Sat Jul 15 17:36:21 2023 +0000
+
+    Adding first commit
